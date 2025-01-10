@@ -181,7 +181,6 @@ header img{
     z-index: 3;
 }
 .card{
-    background-color: #D24BFF;
     border-radius: 5px;
     position: relative;
     background-image: url(./src/bgProject2.png);
