@@ -181,9 +181,10 @@ header img{
     z-index: 3;
 }
 .card:nth-child(2){
-
     background-image: url(./src/projet3.jpg);
-
+}
+.card:last-child{
+    background-image: url(./src/TravelGO.jpg);
 }
 .card{
     border-radius: 5px;
