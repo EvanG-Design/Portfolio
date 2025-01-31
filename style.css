@@ -185,6 +185,7 @@ header img{
 }
 .card:last-child{
     background-image: url(./src/TravelGO.jpg);
+    
 }
 .card{
     border-radius: 5px;
